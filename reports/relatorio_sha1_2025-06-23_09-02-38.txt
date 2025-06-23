@@ -1,0 +1,26 @@
+Senhas comprometidas encontradas:
+123456
+password
+123456789
+12345678
+12345
+1234567
+admin
+welcome
+qwerty
+abc123
+letmein
+senha123
+iloveyou
+000000
+123123
+passw0rd
+superman
+dragon
+batman
+football
+monkey
+shadow
+master
+sunshine
+princess
